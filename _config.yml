@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Krithika Ramesh"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "I'm a senior undergraduate student passionate about the ethics of AI and medieval fantasy RPGs."
   location         : "Mumbai, India"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/krithika-ramesh-06a22a16b/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
