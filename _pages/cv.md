@@ -16,8 +16,7 @@ Education
 Work experience
 ======
 
-
-*May - Present 2021: Research Internship
+* May - Present 2021: Research Internship
   * Indian School of Business 
   * Supervisor: Dr. Sumeet Kumar and Dr. Ashique KhudaBukhsh
 
