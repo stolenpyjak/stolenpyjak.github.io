@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech, Information Technology in Manipal Institute of Technology, Manipal, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+*May - Present 2021: Research Internship
+  * Indian School of Business 
+  * Supervisor: Dr. Sumeet Kumar and Dr. Ashique KhudaBukhsh
+
+* May - July 2020: Research Internship
+  * IIIT-Allahabad
+  * Worked on: Text-to-image generative adversarial networks
+  * Supervisor: K.P Singh
   
-Skills
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fairness in NLP
+* Low-resource languages
+* Reinforcement Learning
 
 Publications
 ======
@@ -48,12 +44,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-founder and Co-President of the [Research Society MIT](https://www.researchsocietymit.com)
